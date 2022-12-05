@@ -1,0 +1,11 @@
+br/com/dio/desafio/dominio/FormacaoAcademica.class
+br/com/dio/desafio/dominio/Artigo.class
+br/com/dio/desafio/dominio/ExperienciaProfissional.class
+Main.class
+br/com/dio/desafio/dominio/Curriculo.class
+br/com/dio/desafio/dominio/Mentoria.class
+br/com/dio/desafio/dominio/Conteudo.class
+br/com/dio/desafio/dominio/Bootcamp.class
+br/com/dio/desafio/dominio/Curso.class
+br/com/dio/desafio/dominio/Dev.class
+br/com/dio/desafio/dominio/data/NewDev.class
